@@ -5,7 +5,11 @@ This submission is for the CSG Assessment and comprises 2 parts.
 
 There are 2 websites that are developed and included in this repository. The crudapp folder comprises the codes for the online store where customers would be able to order food from Uncle Roger's store. The adminapp folder comprises the codes for deployment of a admin website at Uncle Roger's store where he and his staff would be able to view the orders placed by customers who ordered via the online store.The admin website also allows the updating, creation and deletion of menu items.
 
-The backend infrastructure supporting all operations are a backend API server hosted in Heroku and a cloud database hosted in MongoDB. The source code of the API server is not included inside but can be shown during the demo/walkthrough session for better clarity. 
+Both websites were developed using Streamlit and API calls are made to backend API server to carry out CRUD operaions.
+
+Input validation in the Streamlit websites and logging in backend API server was implemented. 
+
+The backend cloud infrastructure supporting all operations are a backend API server hosted in Heroku and a cloud database hosted in MongoDB. The source code of the API server is not included inside but can be shown during the demo/walkthrough session for better clarity. 
 
 ## Installation (crudapp)
 
