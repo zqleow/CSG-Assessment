@@ -16,7 +16,7 @@ The backend cloud infrastructure supporting all operations are a backend API ser
 The dependencies of the program are already documented in requirements.txt. Please install the dependencies by executing pip install requirements.txt.
 
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ## Running the program (crudapp)
 
@@ -32,7 +32,7 @@ Please go to localhost:8501 to access the website.
 The dependencies of the program are already documented in requirements.txt. Please install the dependencies by executing pip install requirements.txt.
 
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ## Running the program (adminapp)
 
